@@ -10,8 +10,7 @@ bikeshare.py
 Udacity final project for intro to python in which there are CSV of 3 cities and we want user to see the stat according to data they input
 
 ### Files used
-Include the files used
+CSV for 3 cities
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+Credit to Udacity and mentors involved

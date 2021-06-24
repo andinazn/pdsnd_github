@@ -4,10 +4,10 @@
 Include the date you created this project and README file.
 
 ### Project Title
-Replace the Project Title
+bikeshare.py
 
 ### Description
-Describe what your project is about and what it does
+Udacity final project for intro to python in which there are CSV of 3 cities and we want user to see the stat according to data they input
 
 ### Files used
 Include the files used

@@ -1,3 +1,5 @@
+"""Bikeshare Project by Udacity for Intro to Python Programming"""
+
 import time
 import pandas as pd
 import numpy as np
